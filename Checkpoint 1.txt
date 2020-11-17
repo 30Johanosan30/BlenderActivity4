@@ -1,0 +1,12 @@
+Diffuse Direct: This render preview makes things appear black and white. 
+Diffuse Indirect: This render preview retains a small trace amount of red and green, the spheres are black, and the overall render is a little dark. 
+Diffuse Color: This render preview makes the spheres black, the left and right walls retain their red and green colors, and everything else is grey. It looks very abstract compared to the other renders in under Diffuse.  
+
+Glossy Direct: This render preview makes everything black with only small traces of white shining off of the tips of the sphere. 
+Glossy Indirect: This render preview makes the spheres reflect the colors of the walls that surround them, even though the background itself appears to be pure black. 
+Glossy Color: This render preview causes one sphere to be white, one sphere to be grey, and the entire background to be black. 
+
+Transmission Direct: This render preview causes the entire scene to appear pure black. 
+Transmission Indirect: This render preview causes only one sphere to be visible, and this one sphere reflecsts the colors of the walls around it. 
+Transmission Color: This render preview causes only one sphere to be visible, and this one sphere is a light grey color. 
+

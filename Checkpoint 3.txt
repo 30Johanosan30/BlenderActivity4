@@ -1,0 +1,1 @@
+The render gives a lot of detail and focus to the objects. It also zooms into the room to focus purely on everything within and not have any of the background from what's outside this room. 

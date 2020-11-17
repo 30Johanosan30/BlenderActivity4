@@ -1,0 +1,1 @@
+With motion blur used in the render, it looks as if the small cube has moved from its original place and is going somewhere else. 
